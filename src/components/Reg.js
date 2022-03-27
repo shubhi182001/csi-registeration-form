@@ -4,7 +4,7 @@ function Reg() {
   return (
     <>
     
-    
+    <button>Hello</button>
     
     </>
   )
