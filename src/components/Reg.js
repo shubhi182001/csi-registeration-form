@@ -5,7 +5,7 @@ function Reg() {
     <>
     
     <button>Hello</button>
-    
+    <p>efygfygyrgryregf</p>
     </>
   )
 }
